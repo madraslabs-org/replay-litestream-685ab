@@ -1,2 +1,2 @@
-# replay-litestream-685ab
-Replayed repository commits
+# litestream
+Streaming replication for SQLite.
